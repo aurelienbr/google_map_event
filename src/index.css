@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.markerSelected {
+  background-color: black;
+}
+
+.iconSorting:hover {
+  cursor: pointer;
+}
+.pointer:hover {
+  cursor: pointer;
+}
